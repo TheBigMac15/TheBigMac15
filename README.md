@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @TheBigMac15
-- 👀 I’m interested in coding and creating projects that are interesting to me.
-- 🌱 I’m currently learning how to work python.
-- 💞️ I’m looking to collaborate on anything.
-- 📫 How to reach me: thebigmacstrikesback@gmail.com
+Hello! My name is Lukas, and I am a Computer Security Major and Criminal Justice Minor at SUNY Plattsburgh. I am on track to graduate May 2025, and am eager to learn or contribute to any projects. You may reach me at thebigmacstrikesback@gmail.com
 
 <!---
 TheBigMac15/TheBigMac15 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
